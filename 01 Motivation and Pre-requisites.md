@@ -31,9 +31,9 @@ A useful package - the caret package
 ### components of a preditor
 **question -> input data -> features -> algorithm -> parameters -> evaluation**
 ### Step 1
-* Start with a general question
+* Start with a general question    
 Can I automatically detect emails that are SPAM that are not?
-* Make it concrete
+* Make it concrete     
 Can I use quantitative characteristics of the emails to classify them as SPAM/HAM?
 
 ### Step 2: INput data
